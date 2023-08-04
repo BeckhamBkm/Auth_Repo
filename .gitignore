@@ -1,2 +1,24 @@
-appSettings.json
-program.cs
+ .gitignore
+
+# Compiled output
+bin/
+obj/
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet package directory
+packages/
+
+# User secrets file
+appsettings.json
+
+# Database files
+*.mdf
+*.ldf
+
+# User-specific files
+*.user
+
+# Build results
+_build/
